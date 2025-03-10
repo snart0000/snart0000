@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Albert Tan</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-#About Me:
+# About Me:
 💻 Web Developer (Front-end)<br>📖 BSIT Student at Cavite State University<br>📧 alberttan1814@gmail.com<br>🎮 Love to play Mobile Games (MLBB, Pokemon TCG, etc.)<br>
 
 
