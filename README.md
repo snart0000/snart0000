@@ -1,4 +1,4 @@
-<h1 align="center" font-style="">Hi 👋, I'm Albert Tan</h1>
+<h1 align="center" font-family="'Times New Roman', serif">Hi 👋, I'm Albert Tan</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
 #About Me:
