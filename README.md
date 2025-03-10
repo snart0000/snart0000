@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Albert Tan</h1>
+<h1 align="center">Hello World, I'm Albert Tan</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
 # About Me:
