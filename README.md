@@ -1,8 +1,6 @@
 <h1 align="left">Hello I'm Albert Tan</h1>
-<img align="right" alt="Coding" width="400" margin-left="10px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">Web Developer | IT Student | Digital Creator  </h3>
-
-
 
 <p align="justify">I'm a passionate <b>Web Developer</b> currently working on exciting projects while pursuing my <b>BSIT (2nd year) at Cavite State University</b>. I specialize in <b>frontend and backend development</b> with a strong focus on <b>web design and digital creativity</b>.</p> 
 
@@ -40,5 +38,5 @@
 ![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva&logoColor=white)  
 
 --- 
-# You can help me by Donating
+<h1>You can help me by Donating</h1>
   [![PayPal](https://img.shields.io/badge/PayPal-black?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@alberttan00)
