@@ -46,4 +46,4 @@ I'm a passionate **Web Developer** currently working on exciting projects while 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-?style=blackfor-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@alberttan00)
+  [![PayPal](https://img.shields.io/badge/PayPal-black?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@alberttan00)
