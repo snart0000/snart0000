@@ -1,12 +1,11 @@
-# 👋 Hello, I'm Albert Tan  
-
-## 🚀 Web Developer | IT Student | Digital Creator  
+<h1 align="center">Hello I'm Albert Tan</h1>
+<h3 align="center">Web Developer | IT Student | Digital Creator  </h3>
 
 I'm a passionate **Web Developer** currently working on exciting projects while pursuing my **BSIT (2nd year) at Cavite State University**. I specialize in **frontend and backend development** with a strong focus on **web design and digital creativity**.  
 
 ---  
 
-## 🛠 Tech Stack  
+## Tech Stack  
 
 ![React.js](https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -24,19 +23,19 @@ I'm a passionate **Web Developer** currently working on exciting projects while 
 
 ---  
 
-## 🏆 Projects  
+## Projects  
 
-### 🔨 Currently Working On  
+### Currently Working On  
 [![Gottit.io](https://img.shields.io/badge/Gottit.io-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gottit.io/)  
 
-### 🖥️ Past Projects  
-[![ATSpupmb](https://img.shields.io/badge/ATSpupmb-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/ATSpupmb/aa.html)  
-[![Group 4 Database](https://img.shields.io/badge/Group%204%20Database-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/group4database.com/)  
-[![Hanker WIP](https://img.shields.io/badge/Hanker%20WIP-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/Hanker-WIP/page1.html)  
+### Past Projects  
+[![College Activity 1](https://img.shields.io/badge/ATSpupmb-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/ATSpupmb/aa.html)  
+[![College Activity 2](https://img.shields.io/badge/Group%204%20Database-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/group4database.com/)  
+[![College Activity 3](https://img.shields.io/badge/Hanker%20WIP-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/Hanker-WIP/page1.html)  
 
 ---  
 
-## 📬 Connect With Me  
+## Connect With Me  
 
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alberttan1814@gmail.com) 
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abtttan/) 
@@ -47,4 +46,4 @@ I'm a passionate **Web Developer** currently working on exciting projects while 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@alberttan00)
+  [![PayPal](https://img.shields.io/badge/PayPal-?style=blackfor-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@alberttan00)
