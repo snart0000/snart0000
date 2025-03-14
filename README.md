@@ -4,9 +4,9 @@
 
 
 
-I'm a passionate **Web Developer** currently working on exciting projects while pursuing my **BSIT (2nd year) at Cavite State University**. I specialize in **frontend and backend development** with a strong focus on **web design and digital creativity**.  
+<p align="justify">I'm a passionate <b>Web Developer</b> currently working on exciting projects while pursuing my <b>BSIT (2nd year) at Cavite State University</b>. I specialize in <b>frontend and backend development</b> with a strong focus on <b>web design and digital creativity</b>.</p> 
 
- <h2> Connect With Me: <h2> 
+<h2> Connect With Me: <h2> 
 
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alberttan1814@gmail.com) 
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abtttan/) 
