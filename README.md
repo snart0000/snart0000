@@ -11,18 +11,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abtttan/) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snart0000) 
 
-<h3 align="left">Projects</h3>
-
-<h4 align="left">Currently Working On</h4>
-
-[![Gottit.io](https://img.shields.io/badge/Gottit.io-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gottit.io/)  
-
-<h4 style="border-bottom: none;">Past Projects</h4> 
-
-[![College Activity 1](https://img.shields.io/badge/College%20Activity%201-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/ATSpupmb/aa.html)  
-[![College Activity 2](https://img.shields.io/badge/College%20Activity%202-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/group4database.com/)  
-[![College Activity 3](https://img.shields.io/badge/College%20Activity%203-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/Hanker-WIP/page1.html)  
-
 <h3 style="border-bottom: none;">Languages and Tools:</h3>
 
 ![React.js](https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react&logoColor=white) 
@@ -39,6 +27,19 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobe-photoshop&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva&logoColor=white)  
 
+<h3 align="left">Projects</h3>
+
+<h4 align="left">Currently Working On</h4>
+
+[![Gottit.io](https://img.shields.io/badge/Gottit.io-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gottit.io/)  
+
+<h4 style="border-bottom: none;">Past Projects</h4> 
+
+[![College Activity 1](https://img.shields.io/badge/College%20Activity%201-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/ATSpupmb/aa.html)  
+[![College Activity 2](https://img.shields.io/badge/College%20Activity%202-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/group4database.com/)  
+[![College Activity 3](https://img.shields.io/badge/College%20Activity%203-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/Hanker-WIP/page1.html)  
+
+---
 <h3 style="border-bottom: none;">You Can Help Me by Donating</h3>
 
 [![PayPal](https://img.shields.io/badge/PayPal-black?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@alberttan00) 
