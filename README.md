@@ -29,9 +29,9 @@ I'm a passionate **Web Developer** currently working on exciting projects while 
 [![Gottit.io](https://img.shields.io/badge/Gottit.io-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gottit.io/)  
 
 ### Past Projects  
-[![College Activity 1](https://img.shields.io/badge/ATSpupmb-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/ATSpupmb/aa.html)  
-[![College Activity 2](https://img.shields.io/badge/Group%204%20Database-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/group4database.com/)  
-[![College Activity 3](https://img.shields.io/badge/Hanker%20WIP-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/Hanker-WIP/page1.html)  
+[![College Activity 1](https://img.shields.io/badge/College%20Activity%201-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/ATSpupmb/aa.html)  
+[![College Activity 2](https://img.shields.io/badge/College%20Activity%202-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/group4database.com/)  
+[![College Activity 3](https://img.shields.io/badge/College%20Activity%203-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/Hanker-WIP/page1.html)  
 
 ---  
 
@@ -43,7 +43,7 @@ I'm a passionate **Web Developer** currently working on exciting projects while 
 
 
 # Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite)
 
 # You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-black?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@alberttan00)
