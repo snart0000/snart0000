@@ -5,7 +5,7 @@
 
 
 
-<p align="justify">I'm a passionate <b>Web Developer</b> currently working on exciting<br> projects while pursuing my <b>BSIT (2nd year) at Cavite State University</b>. <br>I specialize in <b>frontend and backend development</b> with a strong focus<br> on <b>web design and digital creativity</b>.</p> 
+<p align="justify">I'm a passionate <b>Web Developer</b> currently working on exciting projects while pursuing my <b>BSIT (2nd year) at Cavite State University</b>. I specialize in <b>frontend and backend development</b> with a strong focus on <b>web design and digital creativity</b>.</p> 
 
 <h3 align="left">Connect With Me</h3>
 
