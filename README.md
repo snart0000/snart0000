@@ -1,9 +1,11 @@
+[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/zainwen9)
 <h1 align="left" style="border-bottom: none;" >Hello I'm Albert Tan</h1>
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif">
 <h3 align="left">Web Developer | IT Student | Digital Creator  </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="justify">I'm a passionate <b>Web Developer</b> currently working on exciting projects while pursuing my <b>BSIT (2nd year) at Cavite State University</b>. I specialize in <b>frontend and backend development</b> with a strong focus on <b>web design and digital creativity</b>.</p> 
+
+<p align="justify">I'm a passionate <b>Web Developer</b> currently working on exciting<br> projects while pursuing my <b>BSIT (2nd year) at Cavite State University</b>. <br>I specialize in <b>frontend and backend development</b> with a strong focus<br> on <b>web design and digital creativity</b>.</p> 
 
 <h3 align="left">Connect With Me</h3>
 
@@ -18,7 +20,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white) <br>
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white) 
