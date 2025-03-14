@@ -5,6 +5,9 @@
 
 I'm a passionate **Web Developer** currently working on exciting projects while pursuing my **BSIT (2nd year) at Cavite State University**. I specialize in **frontend and backend development** with a strong focus on **web design and digital creativity**.  
 
+<br>
+<br>
+
 <h2> Projects: </h2>
 <h3> Currently Working On  </h3>
 
