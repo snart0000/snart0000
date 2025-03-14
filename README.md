@@ -5,15 +5,15 @@
 
 <p align="justify">I'm a passionate <b>Web Developer</b> currently working on exciting projects while pursuing my <b>BSIT (2nd year) at Cavite State University</b>. I specialize in <b>frontend and backend development</b> with a strong focus on <b>web design and digital creativity</b>.</p> 
 
-<h2>Connect With Me</h2> 
+<h2 align="left">Connect With Me</h2> 
 
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alberttan1814@gmail.com) 
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abtttan/) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snart0000) 
 
-<h2 style="border-bottom: none;">Projects</h2>
+<h2 align="left">Projects</h2>
 
-<h3 style="border-bottom: none;">Currently Working On</h3>
+<h3 align="left">Currently Working On</h3>
 
 [![Gottit.io](https://img.shields.io/badge/Gottit.io-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gottit.io/)  
 
