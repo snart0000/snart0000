@@ -1,6 +1,6 @@
 [![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/zainwen9)
 <h1 align="left" style="border-bottom: none;" >Hello I'm Albert Tan</h1>
-<!-- <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif"> -->
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif">
 <h3 align="left">Web Developer | IT Student | Digital Creator  </h3>
 
 
