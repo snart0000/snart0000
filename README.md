@@ -5,7 +5,22 @@
 
 I'm a passionate **Web Developer** currently working on exciting projects while pursuing my **BSIT (2nd year) at Cavite State University**. I specialize in **frontend and backend development** with a strong focus on **web design and digital creativity**.  
 
+<h2> Projects: </h2>
+<h3> Currently Working On  </h3>
 
+[![Gottit.io](https://img.shields.io/badge/Gottit.io-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gottit.io/)  
+
+<h3> Past Projects </h3> 
+
+[![College Activity 1](https://img.shields.io/badge/College%20Activity%201-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/ATSpupmb/aa.html)  
+[![College Activity 2](https://img.shields.io/badge/College%20Activity%202-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/group4database.com/)  
+[![College Activity 3](https://img.shields.io/badge/College%20Activity%203-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/Hanker-WIP/page1.html)  
+
+# Connect With Me: 
+
+[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alberttan1814@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abtttan/) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snart0000)  
 
  
 
@@ -24,24 +39,6 @@ I'm a passionate **Web Developer** currently working on exciting projects while 
 ![SCSS](https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=sass&logoColor=white) 
 ![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobe-photoshop&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva&logoColor=white)  
-
-
-<h2> Projects: </h2>
-<h3> Currently Working On  </h3>
-[![Gottit.io](https://img.shields.io/badge/Gottit.io-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gottit.io/)  
-
-<h3> Past Projects </h3> 
-[![College Activity 1](https://img.shields.io/badge/College%20Activity%201-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/ATSpupmb/aa.html)  
-[![College Activity 2](https://img.shields.io/badge/College%20Activity%202-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/group4database.com/)  
-[![College Activity 3](https://img.shields.io/badge/College%20Activity%203-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/Hanker-WIP/page1.html)  
-
----  
-
-# Connect With Me: 
-
-[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alberttan1814@gmail.com) 
-[![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abtttan/) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snart0000)  
 
 
 # You can help me by Donating
