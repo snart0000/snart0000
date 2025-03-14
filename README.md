@@ -10,6 +10,7 @@ I'm a passionate **Web Developer** currently working on exciting projects while 
  
 
 <h2> Tech Stack: </h2>
+
 ![React.js](https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white) 
