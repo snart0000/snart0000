@@ -8,18 +8,18 @@ I'm a passionate **Web Developer** currently working on exciting projects while 
 
 ## 🛠 Tech Stack  
 
-![React.js](https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=white)  
-![SCSS](https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=sass&logoColor=white)  
-![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobe-photoshop&logoColor=white)  
+![React.js](https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=white) 
+![SCSS](https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=sass&logoColor=white) 
+![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobe-photoshop&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva&logoColor=white)  
 
 ---  
@@ -38,10 +38,9 @@ I'm a passionate **Web Developer** currently working on exciting projects while 
 
 ## 📬 Connect With Me  
 
-[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alberttan1814@gmail.com)  
-[![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abtttan/)  
+[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alberttan1814@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abtttan/) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snart0000)  
-
 
 
 # Random Dev Quote
