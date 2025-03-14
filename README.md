@@ -5,7 +5,7 @@ I'm a passionate **Web Developer** currently working on exciting projects while 
 
 ---  
 
-## Tech Stack  
+# Tech Stack:  
 
 ![React.js](https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -23,7 +23,7 @@ I'm a passionate **Web Developer** currently working on exciting projects while 
 
 ---  
 
-## Projects  
+# Projects:
 
 ### Currently Working On  
 [![Gottit.io](https://img.shields.io/badge/Gottit.io-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gottit.io/)  
@@ -35,15 +35,12 @@ I'm a passionate **Web Developer** currently working on exciting projects while 
 
 ---  
 
-## Connect With Me  
+# Connect With Me: 
 
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alberttan1814@gmail.com) 
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abtttan/) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snart0000)  
 
-
-# Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite)
 
 # You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-black?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@alberttan00)
