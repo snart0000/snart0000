@@ -1,6 +1,7 @@
 <h1 align="left">Hello I'm Albert Tan</h1>
-<h3 align="left">Web Developer | IT Student | Digital Creator  </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="left">Web Developer | IT Student | Digital Creator  </h3>
+
 
 
 I'm a passionate **Web Developer** currently working on exciting projects while pursuing my **BSIT (2nd year) at Cavite State University**. I specialize in **frontend and backend development** with a strong focus on **web design and digital creativity**.  
