@@ -1,10 +1,12 @@
-<h1 align="left" style="border-bottom: none;" >Hello I'm Albert Tan</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="left" style="border-bottom: none;" >Hello I'm Albert Tan</h1>
 <h3 align="left">Web Developer | IT Student | Digital Creator  </h3>
+
+<h2> Test </h2>
 
 <p align="justify">I'm a passionate <b>Web Developer</b> currently working on exciting projects while pursuing my <b>BSIT (2nd year) at Cavite State University</b>. I specialize in <b>frontend and backend development</b> with a strong focus on <b>web design and digital creativity</b>.</p> 
 
-<h2 style="border-bottom: none;">Connect With Me</h2> 
+<h2 style="border-bottom: none;"> Connect With Me </h2> 
 
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alberttan1814@gmail.com) 
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abtttan/) 
