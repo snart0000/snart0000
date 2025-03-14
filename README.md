@@ -2,7 +2,7 @@
 
 ## 🚀 Web Developer | IT Student | Digital Creator  
 
-I'm a passionate **Web Developer** currently working on exciting projects while pursuing my **BSIT (2nd year) at Cavite State University**. I have a strong foundation in **frontend and backend development**, combined with a knack for **web design** and digital creativity.  
+I'm a passionate **Web Developer** currently working on exciting projects while pursuing my **BSIT (2nd year) at Cavite State University**. I specialize in **frontend and backend development** with a strong focus on **web design and digital creativity**.  
 
 ---  
 
@@ -19,8 +19,6 @@ I'm a passionate **Web Developer** currently working on exciting projects while 
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=white)  
 ![SCSS](https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=sass&logoColor=white)  
-
-### 🎨 Other Skills  
 ![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobe-photoshop&logoColor=white)  
 ![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva&logoColor=white)  
 
@@ -29,12 +27,12 @@ I'm a passionate **Web Developer** currently working on exciting projects while 
 ## 🏆 Projects  
 
 ### 🔨 Currently Working On  
-- [![Gottit.io](https://img.shields.io/badge/Gottit.io-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gottit.io/)  
+[![Gottit.io](https://img.shields.io/badge/Gottit.io-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gottit.io/)  
 
 ### 🖥️ Past Projects  
-- [ATSpupmb](https://snart0000.github.io/ATSpupmb/aa.html)  
-- [Group 4 Database](https://snart0000.github.io/group4database.com/)  
-- [Hanker WIP](https://snart0000.github.io/Hanker-WIP/page1.html)  
+[![ATSpupmb](https://img.shields.io/badge/ATSpupmb-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/ATSpupmb/aa.html)  
+[![Group 4 Database](https://img.shields.io/badge/Group%204%20Database-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/group4database.com/)  
+[![Hanker WIP](https://img.shields.io/badge/Hanker%20WIP-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/Hanker-WIP/page1.html)  
 
 ---  
 
@@ -43,6 +41,7 @@ I'm a passionate **Web Developer** currently working on exciting projects while 
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alberttan1814@gmail.com)  
 [![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abtttan/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snart0000)  
+
 
 
 # Random Dev Quote
