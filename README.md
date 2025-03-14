@@ -1,5 +1,5 @@
 <h1 align="left">Hello I'm Albert Tan</h1>
-<img align="right" alt="Coding" width="400" padding-left="10px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" margin-left="10px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">Web Developer | IT Student | Digital Creator  </h3>
 
 
