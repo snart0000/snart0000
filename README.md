@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif">
 <h3 align="left">Web Developer | IT Student | Digital Creator  </h3>
 
-
-
-<p align="justify">I'm a passionate <b>Web Developer</b> currently working on some projects while pursuing my <b>BSIT (2nd year) at Cavite State University, Naic Cavite</b>.  I specialize in <b>frontend and backend development</b> with a strong focus on <b>web design and digital creativity</b>.</p> 
+  📖 2nd Year BSIT Student at Cavite State University <br>
+  💻 Full Stack Developer<br>
+  💻 Web Design and Digital Creativity
 
 <h3 align="left">Connect With Me</h3>
 
