@@ -9,7 +9,7 @@ I'm a passionate **Web Developer** currently working on exciting projects while 
 
  
 
-<p> Tech Stack: </p>
+<h2> Tech Stack: </h2>
 
 ![React.js](https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -27,12 +27,12 @@ I'm a passionate **Web Developer** currently working on exciting projects while 
 
 ---  
 
-# Projects:
+<h2> Projects: </h2>
 
-### Currently Working On  
+<h3> Currently Working On  </h3>
 [![Gottit.io](https://img.shields.io/badge/Gottit.io-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gottit.io/)  
 
-### Past Projects  
+<h3> Past Projects </h3> 
 [![College Activity 1](https://img.shields.io/badge/College%20Activity%201-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/ATSpupmb/aa.html)  
 [![College Activity 2](https://img.shields.io/badge/College%20Activity%202-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/group4database.com/)  
 [![College Activity 3](https://img.shields.io/badge/College%20Activity%203-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snart0000.github.io/Hanker-WIP/page1.html)  
