@@ -1,5 +1,5 @@
-<h1 align="center">Hello I'm Albert Tan</h1>
-<h3 align="center">Web Developer | IT Student | Digital Creator  </h3>
+<h1 align="left">Hello I'm Albert Tan</h1>
+<h3 align="left">Web Developer | IT Student | Digital Creator  </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -11,7 +11,7 @@ I'm a passionate **Web Developer** currently working on exciting projects while 
 
 <h2> Tech Stack: </h2>
 
-![React.js](https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react&logoColor=white) 
+[React.js](https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white) 
@@ -25,7 +25,6 @@ I'm a passionate **Web Developer** currently working on exciting projects while 
 ![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobe-photoshop&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva&logoColor=white)  
 
----  
 
 <h2> Projects: </h2>
 
