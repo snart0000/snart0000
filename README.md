@@ -10,8 +10,7 @@ I'm a passionate **Web Developer** currently working on exciting projects while 
  
 
 <h2> Tech Stack: </h2>
-
-[React.js](https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react&logoColor=white) 
+![React.js](https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white) 
@@ -27,7 +26,6 @@ I'm a passionate **Web Developer** currently working on exciting projects while 
 
 
 <h2> Projects: </h2>
-
 <h3> Currently Working On  </h3>
 [![Gottit.io](https://img.shields.io/badge/Gottit.io-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gottit.io/)  
 
